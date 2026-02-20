@@ -17,7 +17,4 @@ MotionAlert is an advanced seizure detection system using wearable accelerometer
 
 ## **Dataset**
 - Expected CSV format: Columns `x`, `y`, `z` for accelerometer readings.  
-- Sample CSV is included for testing.  
-- **Note:** Do not upload private patient data; use anonymized or dummy data.
 
-**Sample columns:**
